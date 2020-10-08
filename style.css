@@ -1,0 +1,119 @@
+/*every comment tag can be used if we decide to change <p> one page and use <ul><li>
+=====reminder======= some of code might want to get deleted if we change
+*/
+
+
+body{
+    font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    
+}
+main{
+    background-color: #eee;
+    border-radius: 5px;
+    margin-top: 30px;
+    /* margin: 25px 3px;
+    padding: 15px; */
+}
+
+ #h1{
+padding-top:35px;
+}
+#p1{
+    font-size: 17px;
+    margin: 0;
+}
+
+ #footer:before{
+    content: "\2022";
+    padding: 10px;
+}
+span{
+    font-weight: bold;
+    margin-left: 2opx;;
+}
+
+h1{ 
+   font-size: 2rem;
+   font-weight: bold;
+   /*font-size: 40px;
+   font-weight: bold;
+   margin-bottom: 20px;*/
+ }
+ #img-div{
+background-color:white;
+margin: 15;
+
+
+}
+#img-caption{
+    padding: 16px; /*19*/
+    font-size: 16;
+}
+footer{
+       text-align: center;
+}
+footer h3{
+    text-align: center;
+    font-size: 1.17em; /*1*/
+
+}
+
+footer p{
+    font-size: 16px;
+    max-width: 572px;
+    margin: 0 auto 19px auto;
+    text-align: left;
+    }
+
+blockquote{
+    max-width: 545px;
+    font-style: italic;
+    text-align: left;
+    margin: 45px auto 60px auto; 
+    /* margin:  30px auto;
+    margin-top:42px;
+    margin-bottom: 50px;*/
+    
+}
+cite{
+    font-size: 0.8rem;
+}
+
+h3{
+    font-size: 1.15em;  /*0.9em*/
+    font-weight: bold;
+    margin:40px 0px 50px 0px; /* margin: 50px 0px 50px 0px;*/
+}
+a:visited{
+    color: #74638f;
+}
+a{
+    text-decoration: underline;
+}
+#image{
+    
+    max-width: 100%;
+  height: auto;
+}
+
+h4{
+    padding-bottom: 35px;
+    font-size: 1em;
+
+    /* font-size: 0.9em;
+    letter-spacing:0.1px;
+    word-spacing: 1px;*/
+} 
+
+/*ul{
+    max-width: 550px;
+    text-align: left;
+    margin-left: 400px;
+        
+}
+li{
+margin: 10px 0 20px 0;
+font-size: 0.8em;
+}*/
